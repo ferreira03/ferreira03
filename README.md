@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm **André Ferreira**  
 
-<!--
-**ferreira03/ferreira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fullstack PHP/Symfony Developer** | 💻 Passionate about clean, scalable code | 📚 Always learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+🔹 Experienced in **PHP/Symfony**, I have worked on **B2B e-commerce** and **SaaS** solutions.  
+🔹 I focus on **code quality, maintainability, and performance optimization**, while collaborating in **agile teams** and sharing knowledge.  
+
+---
+
+## 🛠️ Tech Stack  
+**🔹 Backend:** PHP, Symfony, MySQL, PostgreSQL, REST APIs, Microservices  
+**🔹 Frontend:** JavaScript, TypeScript  
+**🔹 DevOps:** Docker, CI/CD, RabbitMQ, Datadog  
+**🔹 Best Practices:** SOLID, Clean Code, Agile (Scrum, Kanban)  
+
+---
+
+🔥 **Always eager to learn and tackle new challenges!**  
